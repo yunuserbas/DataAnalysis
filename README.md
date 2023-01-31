@@ -1,3 +1,4 @@
+
 # Data Analysis Using Python
 
 🔷 In this project, I show how to work on a real project of Data Analysis with Python.
@@ -17,6 +18,8 @@ The commands that I used in this project :
 🔴 columns - It shows the name of each column
 
 🔴 dtypes - It shows the data type of each column
+
+🔴 describe() - it is used for calculating some statistical data like percentile, mean and std of the numerical values of the series or dataFrame.
 
 🔴 unique() - In a column, it shows all the unique values. It can be applied to a single column only, not on the whole dataframe.
 
